@@ -1,0 +1,4 @@
+package-lock.json
+./dist
+/node_modules
+.vite/deps_temp_6c4e0634/package.json
